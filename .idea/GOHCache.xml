@@ -3,10 +3,31 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
-        <entry key="User">
+        <entry key="Circle">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../awesomeProject1/gorm/demo1.go" />
+              <option value="file://$PROJECT_DIR$/part2/task3.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Employee">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part2/task3.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Person">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part2/task3.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Rectangle">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part2/task3.go" />
             </set>
           </value>
         </entry>
@@ -14,18 +35,6 @@
     </option>
     <option name="scannedPathMapping">
       <map>
-        <entry key="file://$PROJECT_DIR$/../awesomeProject1/gorm/demo1.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1750816978073" />
-              <option name="schema">
-                <list>
-                  <option value="User" />
-                </list>
-              </option>
-            </ScannedPath>
-          </value>
-        </entry>
         <entry key="file://$PROJECT_DIR$/part1/beginingOfDream.go">
           <value>
             <ScannedPath>
@@ -33,13 +42,66 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/part2/languageAdvancement.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751029010999" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part2/task1.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751029963426" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part2/task2.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751031973796" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part2/task3.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751162622065" />
+              <option name="schema">
+                <list>
+                  <option value="Rectangle" />
+                  <option value="Circle" />
+                  <option value="Person" />
+                  <option value="Employee" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part2/task4.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751164252279" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part2/task5.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751165338353" />
+            </ScannedPath>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="tableStructMapping">
       <map>
-        <entry key="user" value="User" />
+        <entry key="circle" value="Circle" />
+        <entry key="employee" value="Employee" />
+        <entry key="person" value="Person" />
+        <entry key="rectangle" value="Rectangle" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1750816942930" />
+    <option name="lastTimeChecked" value="1751028537078" />
   </component>
 </project>
