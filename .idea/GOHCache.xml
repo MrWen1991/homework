@@ -3,10 +3,31 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
+        <entry key="Account">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/sql-excersize.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Book">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/sql-x.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Circle">
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/part2/task3.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Commentx">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/gorm-excersize.go" />
             </set>
           </value>
         </entry>
@@ -17,10 +38,24 @@
             </set>
           </value>
         </entry>
+        <entry key="Employees">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/sql-x.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Person">
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/part2/task3.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Postx">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/gorm-excersize.go" />
             </set>
           </value>
         </entry>
@@ -31,10 +66,45 @@
             </set>
           </value>
         </entry>
+        <entry key="Students">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/sql-excersize.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Transaction">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/sql-excersize.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Userx">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part3/gorm-excersize.go" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751166095396" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/gorms/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751203809505" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/part1/beginingOfDream.go">
           <value>
             <ScannedPath>
@@ -92,14 +162,70 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/part3/gorm-excersize.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751276175465" />
+              <option name="schema">
+                <list>
+                  <option value="Userx" />
+                  <option value="Postx" />
+                  <option value="Commentx" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part3/sql-excersize.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751201981399" />
+              <option name="schema">
+                <list>
+                  <option value="Students" />
+                  <option value="Account" />
+                  <option value="Transaction" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part3/sql-x.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751253502650" />
+              <option name="schema">
+                <list>
+                  <option value="Employees" />
+                  <option value="Book" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751275522644" />
+            </ScannedPath>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="tableStructMapping">
       <map>
+        <entry key="account" value="Account" />
+        <entry key="book" value="Book" />
         <entry key="circle" value="Circle" />
+        <entry key="commentx" value="Commentx" />
         <entry key="employee" value="Employee" />
+        <entry key="employees" value="Employees" />
         <entry key="person" value="Person" />
+        <entry key="postx" value="Postx" />
         <entry key="rectangle" value="Rectangle" />
+        <entry key="students" value="Students" />
+        <entry key="transaction" value="Transaction" />
+        <entry key="userx" value="Userx" />
       </map>
     </option>
     <option name="lastTimeChecked" value="1751028537078" />
