@@ -24,6 +24,13 @@
             </set>
           </value>
         </entry>
+        <entry key="Comment">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part4/structs.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Commentx">
           <value>
             <set>
@@ -49,6 +56,20 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/part2/task3.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Post">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part4/structs.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PostUpdate">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part4/structs.go" />
             </set>
           </value>
         </entry>
@@ -80,6 +101,13 @@
             </set>
           </value>
         </entry>
+        <entry key="User">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/part4/structs.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Userx">
           <value>
             <set>
@@ -101,7 +129,7 @@
         <entry key="file://$PROJECT_DIR$/gorms/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1751203809505" />
+              <option name="lastModified" value="1751336475927" />
             </ScannedPath>
           </value>
         </entry>
@@ -165,7 +193,7 @@
         <entry key="file://$PROJECT_DIR$/part3/gorm-excersize.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1751276175465" />
+              <option name="lastModified" value="1751276827097" />
               <option name="schema">
                 <list>
                   <option value="Userx" />
@@ -203,10 +231,81 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/part4/authority.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751359394566" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/comment_manage.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751375351453" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/common.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751356740417" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751355894355" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/login.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751354396294" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751374873612" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/middleware.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751360685041" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/post_manage.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751365035385" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/part4/structs.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751363376320" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="Post" />
+                  <option value="PostUpdate" />
+                  <option value="Comment" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/test.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1751275522644" />
+              <option name="lastModified" value="1751357262551" />
             </ScannedPath>
           </value>
         </entry>
@@ -217,14 +316,18 @@
         <entry key="account" value="Account" />
         <entry key="book" value="Book" />
         <entry key="circle" value="Circle" />
+        <entry key="comment" value="Comment" />
         <entry key="commentx" value="Commentx" />
         <entry key="employee" value="Employee" />
         <entry key="employees" value="Employees" />
         <entry key="person" value="Person" />
+        <entry key="post" value="Post" />
+        <entry key="post_update" value="PostUpdate" />
         <entry key="postx" value="Postx" />
         <entry key="rectangle" value="Rectangle" />
         <entry key="students" value="Students" />
         <entry key="transaction" value="Transaction" />
+        <entry key="user" value="User" />
         <entry key="userx" value="Userx" />
       </map>
     </option>

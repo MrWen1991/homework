@@ -1,6 +1,6 @@
 package main
 
-import "homework/part3"
+import "homework/part4"
 
 func main() {
 	//part3.SqlExcersizeRun1()
@@ -13,5 +13,7 @@ func main() {
 	//part3.QueryUserInfo(1)
 	//part3.QueryMaxCommentUserInfo()
 	//part3.TriggerPostxHook()
-	part3.TriggerCommentxHook()
+	//part3.TriggerCommentxHook()
+
+	part4.P4Run()
 }
