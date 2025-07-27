@@ -27,6 +27,7 @@
         <entry key="Comment">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/gofundation/part4/structs.go" />
               <option value="file://$PROJECT_DIR$/part4/structs.go" />
             </set>
           </value>
@@ -62,6 +63,7 @@
         <entry key="Post">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/gofundation/part4/structs.go" />
               <option value="file://$PROJECT_DIR$/part4/structs.go" />
             </set>
           </value>
@@ -69,6 +71,7 @@
         <entry key="PostUpdate">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/gofundation/part4/structs.go" />
               <option value="file://$PROJECT_DIR$/part4/structs.go" />
             </set>
           </value>
@@ -104,6 +107,7 @@
         <entry key="User">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/gofundation/part4/structs.go" />
               <option value="file://$PROJECT_DIR$/part4/structs.go" />
             </set>
           </value>
@@ -119,10 +123,25 @@
     </option>
     <option name="scannedPathMapping">
       <map>
-        <entry key="file://$PROJECT_DIR$/config.go">
+        <entry key="file://$PROJECT_DIR$/dappBankend/task1.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1751166095396" />
+              <option name="lastModified" value="1753581201979" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/gofundation/part4/structs.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753579069841" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="Post" />
+                  <option value="PostUpdate" />
+                  <option value="Comment" />
+                </list>
+              </option>
             </ScannedPath>
           </value>
         </entry>
@@ -137,13 +156,6 @@
           <value>
             <ScannedPath>
               <option name="lastModified" value="1750861810140" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/part2/languageAdvancement.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1751029010999" />
             </ScannedPath>
           </value>
         </entry>
@@ -259,13 +271,6 @@
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/part4/login.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1751354396294" />
-            </ScannedPath>
-          </value>
-        </entry>
         <entry key="file://$PROJECT_DIR$/part4/main.go">
           <value>
             <ScannedPath>
@@ -305,7 +310,7 @@
         <entry key="file://$PROJECT_DIR$/test.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1751357262551" />
+              <option name="lastModified" value="1753579069742" />
             </ScannedPath>
           </value>
         </entry>
@@ -331,6 +336,6 @@
         <entry key="userx" value="Userx" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1751028537078" />
+    <option name="lastTimeChecked" value="1753578980072" />
   </component>
 </project>

@@ -1,0 +1,2 @@
+ solcjs --abi --include-path node_modules/ --base-path . contracts/dappBankend/Counter.sol
+ solcjs --bin --include-path node_modules/ --base-path . contracts/dappBankend/Counter.sol
